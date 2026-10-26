@@ -1,0 +1,6 @@
+{
+  "name": "PERSONALISED STORE - Indian Custom Gifts & Decor",
+  "description": "Production-grade Indian personalised products e-commerce platform offering custom photo frames, mugs, cushions, calendars, keychains, and wall art with real-time preview, secure pincode delivery, and robust Node.js/MySQL API architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
